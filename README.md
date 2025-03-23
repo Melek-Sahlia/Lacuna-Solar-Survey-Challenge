@@ -1,3 +1,4 @@
+ZINDI Competition Link: https://zindi.africa/competitions/lacuna-solar-survey-challenge
 # Boil and Pan Detection Pipeline
 
 This project provides a complete pipeline for detecting and counting boils and pans in aerial images. The pipeline includes data preparation, model training, evaluation, and prediction.
